@@ -1,2 +1,7 @@
 # myscript.py
-print("Hello, Jenkins! This is a simple Python script.")
+
+n=4
+if n % 2 == 0 :
+  print("even:", n)
+else :
+  print("odd:", n)
